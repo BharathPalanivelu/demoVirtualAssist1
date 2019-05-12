@@ -1,0 +1,46 @@
+{
+  "authoringRegion": "westus",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "intentName": "l_general",
+      "appId": "d955c22a-28a8-489f-aa22-31bc740c4c31",
+      "authoringKey": "8faac8c1769444388bcb483f4e66db9c",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "demovassist6en_general",
+      "id": "1"
+    },
+    {
+      "intentName": "q_chitchat",
+      "kbId": "e3deabd7-3cb3-4f6f-92f4-d0c60e8c6d99",
+      "subscriptionKey": "56ba3e32cb7346a8b1604859ffdf7254",
+      "type": "qna",
+      "name": "chitchat",
+      "id": "2"
+    },
+    {
+      "intentName": "q_faq",
+      "kbId": "6d35530b-97e7-446e-8d3b-64a9dcc19939",
+      "subscriptionKey": "56ba3e32cb7346a8b1604859ffdf7254",
+      "type": "qna",
+      "name": "faq",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "696d6c96-cecf-47db-82f3-8363c7f3cc99",
+  "authoringKey": "8faac8c1769444388bcb483f4e66db9c",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "demovassist6en_Dispatch"
+}

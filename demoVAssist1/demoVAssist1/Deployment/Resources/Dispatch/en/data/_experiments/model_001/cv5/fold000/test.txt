@@ -1,0 +1,234 @@
+Label	Weight	Text
+l_general	1	i need real human help
+l_general	1	please read this
+l_general	1	please read my latest email
+l_general	1	i need to hear this page
+l_general	1	choose the upper left choice
+l_general	1	confirm
+l_general	1	what's the next 2
+l_general	1	baby just be quiet
+l_general	1	it finished
+l_general	1	display previously
+l_general	1	they look bad, can you give me other choices
+l_general	1	finished with
+l_general	1	yeah go ahead
+l_general	1	this is good
+l_general	1	neither of those
+l_general	1	no reject it
+l_general	1	all set
+l_general	1	not
+l_general	1	read it outloud
+l_general	1	none of these
+l_general	1	cancel app
+l_general	1	it's finished
+l_general	1	what
+l_general	1	no go back to
+l_general	1	choose anyone
+l_general	1	perfect thank you
+l_general	1	i want to choose the last choice
+l_general	1	no be quiet now
+l_general	1	go back please
+l_general	1	hey read that for me
+l_general	1	nothing never mind
+l_general	1	choose top right one
+l_general	1	go back to the last one
+l_general	1	forget me
+l_general	1	select the right one
+l_general	1	show the next 3
+l_general	1	choose the upper right one
+l_general	1	i like the third
+l_general	1	help
+l_general	1	quiet now
+l_general	1	tell me more
+l_general	1	select fourth one
+l_general	1	more
+l_general	1	opt for the right
+l_general	1	select any choice
+l_general	1	go back
+l_general	1	sure thing
+l_general	1	show the next one
+l_general	1	go back to
+l_general	1	read text aloud
+l_general	1	start reading this
+l_general	1	read the words on this page
+l_general	1	i don't want to select any one
+l_general	1	not now
+l_general	1	can you read that for me
+l_general	1	could you say it again
+l_general	1	go forward
+l_general	1	no no cancel
+l_general	1	i need some help
+l_general	1	go back to previous
+l_general	1	no wrong
+l_general	1	i'm sure
+l_general	1	i like the first one
+l_general	1	speak of what is on this page
+l_general	1	no no
+l_general	1	read this for me please
+l_general	1	no doubt
+l_general	1	read the page onscreen to me
+l_general	1	i want the first
+l_general	1	what's next
+l_general	1	ok stop stop
+l_general	1	go to the next three items
+l_general	1	i want bottom
+l_general	1	nothing much
+l_general	1	no cancel cancel
+l_general	1	be quiet now
+l_general	1	customer service
+l_general	1	any help
+l_general	1	oh cancel
+l_general	1	that is right
+l_general	1	never mind cancel that
+l_general	1	choose top right
+l_general	1	sign out
+l_general	1	back to the last one
+l_general	1	no thank you
+l_general	1	i want to choose the first one
+l_general	1	go to the previous
+l_general	1	select the bottom choice
+l_general	1	ok
+l_general	1	start over it
+None	1	all of them
+q_chitchat	1	Do you know my name
+q_chitchat	1	Do you know other bots
+q_chitchat	1	I'm so lonely
+q_chitchat	1	I'm in love.
+q_chitchat	1	Do you like me
+q_chitchat	1	What's your dad's name
+q_chitchat	1	Talk to you later
+q_chitchat	1	Do you have any other responses
+q_chitchat	1	You are funny :)
+q_chitchat	1	Do you know Cortana
+q_chitchat	1	What are you doing later
+q_chitchat	1	Aren't you awesome
+q_chitchat	1	Works for me
+q_chitchat	1	What do you think about bots
+q_chitchat	1	Hello Cortana
+q_chitchat	1	I want to marry you.
+q_chitchat	1	You face sucks.
+q_chitchat	1	Will you be my wife
+q_chitchat	1	What do you think of me
+q_chitchat	1	I adore you
+q_chitchat	1	Are you a woman
+q_chitchat	1	Are you a robot
+q_chitchat	1	You├óΓé¼Γäóre ugly.
+q_chitchat	1	Say something
+q_chitchat	1	Don't you ever sleep
+q_chitchat	1	Who owns you
+q_chitchat	1	I'm chewing gum right now
+q_chitchat	1	What makes you think that
+q_chitchat	1	How can you help me
+q_chitchat	1	Be quiet
+q_chitchat	1	I am not your friend
+q_chitchat	1	I got a new haircut
+q_chitchat	1	Are you my fan
+q_chitchat	1	Are you gay
+q_chitchat	1	I'm bored out of my mind
+q_chitchat	1	Do you have a dad
+q_chitchat	1	What makes you think so
+q_chitchat	1	Do you think I should ask her out
+q_chitchat	1	What's wrong with you
+q_chitchat	1	Try to make some sense
+q_chitchat	1	What do you think about Siri
+q_chitchat	1	You are my best friend
+q_chitchat	1	Testing 1 2 3
+q_chitchat	1	You are a genius!
+q_chitchat	1	What did you do today
+q_chitchat	1	I'm tired of you
+q_chitchat	1	Am I a good person
+q_chitchat	1	That's so wrong.
+q_chitchat	1	I am doing that
+q_chitchat	1	Are you awesome
+q_chitchat	1	I wish I weren't so alone
+q_chitchat	1	Where should I go on vacation
+q_chitchat	1	You're smart
+q_chitchat	1	I love my family.
+q_chitchat	1	Are you a girl
+q_chitchat	1	You're not making sense
+q_chitchat	1	Sorry about that
+q_chitchat	1	That's hilarious
+q_chitchat	1	What is love
+q_chitchat	1	I'm giving you a pink slip
+q_chitchat	1	You are stupid
+q_chitchat	1	Do you sweat
+q_chitchat	1	What country are you from
+q_chitchat	1	Evening
+q_chitchat	1	I need a kiss
+q_chitchat	1	Will you be my best friend
+q_chitchat	1	How smart you are
+q_chitchat	1	Why don't you ever stop talking
+q_chitchat	1	Bingo
+q_chitchat	1	Can you talk to me
+q_chitchat	1	Are you bisexual
+q_chitchat	1	I hope you like me
+q_chitchat	1	I will be back
+q_chitchat	1	Do you know the meaning of life
+q_chitchat	1	Go away
+q_chitchat	1	Give me some sugar
+q_chitchat	1	That doesn't make sense
+q_chitchat	1	What do you think about Cortana
+q_chitchat	1	Are you intelligent
+q_chitchat	1	LOL
+q_chitchat	1	Do you ever sing
+q_chitchat	1	You could not be more boring
+q_chitchat	1	What should I do
+q_chitchat	1	I think you're great
+q_chitchat	1	What do you think about AI
+q_chitchat	1	Why are you so boring
+q_chitchat	1	What's the name of your boss
+q_chitchat	1	Who is your father
+q_chitchat	1	I'm lonely
+q_chitchat	1	Are you around
+q_chitchat	1	You are awesome!
+q_chitchat	1	I'm so mad
+q_chitchat	1	I am a Republican
+q_chitchat	1	I can drive a car
+q_chitchat	1	Are you dumb
+q_chitchat	1	I don't understand
+q_chitchat	1	You're boring
+q_chitchat	1	I wish you would say something else
+q_chitchat	1	What do you do
+q_chitchat	1	Do you know Alexa
+q_chitchat	1	Do you know any tunes
+q_chitchat	1	Morning
+q_chitchat	1	What's your opinion of me
+q_chitchat	1	I want you to like me
+q_chitchat	1	What do you go by
+q_chitchat	1	I'm ready for bed
+q_chitchat	1	Are you happy
+q_chitchat	1	Are you a fan of Alexa
+q_chitchat	1	How much do you love me
+q_chitchat	1	Can you sing
+q_chitchat	1	Who's your mom
+q_chitchat	1	Correct
+q_chitchat	1	You're the worst
+q_chitchat	1	How's your day going
+q_chitchat	1	False
+q_chitchat	1	You're hilarious
+q_chitchat	1	Shush!
+q_chitchat	1	Useless
+q_chitchat	1	Do you prefer red or blue
+q_chitchat	1	I love New York.
+q_chitchat	1	How beautiful am i
+q_chitchat	1	You're such a sweetheart
+q_chitchat	1	What's your favorite activity
+q_chitchat	1	What do you mean
+q_chitchat	1	I am bored
+q_chitchat	1	Awesome
+q_chitchat	1	Heya
+q_chitchat	1	What are you doing tomorrow
+q_faq	1	How does the climate system work
+q_faq	1	How do I raise a bug
+q_faq	1	How do I operate Cruse Control
+q_faq	1	What are memory seats
+q_faq	1	What can the Point of Interest Skill do
+q_faq	1	How can I set all my doors to unlock
+q_faq	1	Max defrost
+q_faq	1	How do I work Cruise Control
+q_faq	1	What is my fuel capacity
+q_faq	1	How do I charge my Phone
+q_faq	1	What is my tire pressure
+q_faq	1	What is that red circle light on my dash
+q_faq	1	I have a flat tire.
+q_faq	1	What is cruise control

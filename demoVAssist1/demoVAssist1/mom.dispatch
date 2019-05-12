@@ -1,0 +1,12 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "serviceIds": [],
+  "authoringKey": "8faac8c1769444388bcb483f4e66db9c",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "mom"
+}

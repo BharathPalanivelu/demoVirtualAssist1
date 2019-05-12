@@ -1,0 +1,5 @@
+Utterance	Intents
+yes	l_general, q_chitchat
+what's new	q_chitchat, q_faq
+sounds good	l_general, q_chitchat
+go away	l_general, q_chitchat

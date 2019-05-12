@@ -1,0 +1,20 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "Dispatch",
+  "name": "demovassist6en_Dispatch",
+  "desc": "Dispatch model for demovassist6en_Dispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [],
+  "settings": []
+}

@@ -1,0 +1,64 @@
+﻿{
+  "type": "AdaptiveCard",
+  "id": "NewUserGreeting",
+  "backgroundImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAACeCAYAAACvg+F+AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAAhdEVYdENyZWF0aW9uIFRpbWUAMjAxOTowMzoxMyAxOTo0Mjo0OBCBEeIAAAG8SURBVHhe7dJBDQAgEMCwA/+egQcmlrSfGdg6z0DE/oUEw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phSTEsKYYlxbCkGJYUw5JiWFIMS4phCZm52U4FOCAVGHQAAAAASUVORK5CYII=",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "Image",
+          "url": "https://c1.staticflickr.com/5/4004/4450879940_c3a7089a41_b.jpg",
+          "size": "Stretch"
+        }
+      ]
+    },
+    {
+      "type": "Container",
+      "spacing": "None",
+      "backgroundImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAXCAIAAACAiijJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVDhPY1RgL2SgDDBBaQrAqBEIMGoEAowagQCjRiDAqBEIQLERDAwAIisAxhgAwtEAAAAASUVORK5CYII=",
+      "items": [
+        {
+          "type": "TextBlock",
+          "id": "title",
+          "spacing": "Medium",
+          "size": "Large",
+          "weight": "Bolder",
+          "color": "Light",
+          "text": "Hi, I'm **Joey's** Virtual Assistant",
+          "wrap": true
+        },
+        {
+          "type": "TextBlock",
+          "id": "body",
+          "size": "Medium",
+          "color": "Light",
+          "text": "Now that I'm up and running, explore the links here to learn what I can do.",
+          "wrap": true
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Get started",
+      "data": {
+        "action": "startOnboarding"
+      }
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Documentation",
+      "url": "https://aka.ms/virtualassistantdocs"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Skills",
+      "url": "https://aka.ms/botframeworkskills"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0",
+  "speak": "Hi, I'm **Joey's** Virtual Assistant. Now that I'm up and running, explore the links here to learn what I can do."
+}

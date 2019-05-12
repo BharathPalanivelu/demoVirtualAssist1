@@ -1,0 +1,44 @@
+{
+  "cognitiveModels": {
+    "en": {
+      "dispatchModel": {
+        "authoringkey": "8faac8c1769444388bcb483f4e66db9c",
+        "region": "westus",
+        "type": "dispatch",
+        "appid": "696d6c96-cecf-47db-82f3-8363c7f3cc99",
+        "name": "demovassist6en_Dispatch",
+        "subscriptionkey": "8faac8c1769444388bcb483f4e66db9c"
+      },
+      "languageModels": [
+        {
+          "authoringkey": "8faac8c1769444388bcb483f4e66db9c",
+          "version": "0.1",
+          "subscriptionkey": "8faac8c1769444388bcb483f4e66db9c",
+          "appid": "d955c22a-28a8-489f-aa22-31bc740c4c31",
+          "id": "general",
+          "name": "demovassist6en_general",
+          "region": "westus"
+        }
+      ],
+      "knowledgebases": [
+        {
+          "kbId": "e3deabd7-3cb3-4f6f-92f4-d0c60e8c6d99",
+          "endpointKey": "adb11992-5237-46ba-8b8d-9987435d8e7c",
+          "subscriptionKey": "56ba3e32cb7346a8b1604859ffdf7254",
+          "id": "chitchat",
+          "name": "chitchat",
+          "hostname": "https://demovassist6-qnahost.azurewebsites.net"
+        },
+        {
+          "kbId": "6d35530b-97e7-446e-8d3b-64a9dcc19939",
+          "endpointKey": "adb11992-5237-46ba-8b8d-9987435d8e7c",
+          "subscriptionKey": "56ba3e32cb7346a8b1604859ffdf7254",
+          "id": "faq",
+          "name": "faq",
+          "hostname": "https://demovassist6-qnahost.azurewebsites.net"
+        }
+      ]
+    }
+  },
+  "defaultLocale": "en-us"
+}

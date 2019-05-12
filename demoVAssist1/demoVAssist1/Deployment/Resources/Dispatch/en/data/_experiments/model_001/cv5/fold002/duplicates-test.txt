@@ -1,0 +1,2 @@
+Utterance	Intents
+what's new	q_chitchat, q_faq
